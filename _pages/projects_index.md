@@ -3,7 +3,7 @@ title: "Projects"
 layout: splash
 permalink: /projects_index/
 classes: wide
-excerpt: "aa."
+excerpt: "everthing"
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
