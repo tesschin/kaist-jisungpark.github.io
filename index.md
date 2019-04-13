@@ -15,3 +15,4 @@ header:
 ---
 ## About Me
 Hello! My name is Jisung Park.
+{: style="text-align: justify;"}
