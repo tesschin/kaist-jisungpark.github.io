@@ -1,6 +1,6 @@
 # /_data/authors.yml
 
-Yu Zhang:
+Jisung Park:
   name             : "Jisung Park"
   avatar           : "/assets/images/dragonball.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student @ MORIN at Korea Advanced Institute of Science and Technology."
