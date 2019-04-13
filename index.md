@@ -14,16 +14,15 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-Hello! My name is Jisung Park.
-{: style="text-align: justify;"}
-
-My research interests 
+Hello! My name is Jisung Park. I am a PhD student in Department of Mechanical Engineering at Korea Advanced Institute of Science and Technology.
 {: style="text-align: justify;"}
 
 ## Research Interests
-* Robot
+* Underwater localization using optic-acoustic stereo system
+* Autonomous underwater intervention task using underwater robot
+* Machine learning algorithms for underwater robot applications
 
 
 ## News  
 ### May 2019  
-I am happy.
+I am happy now.
