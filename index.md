@@ -10,9 +10,10 @@ classes: wide
 header:
   #image: /images/awesome.png
   #og_image: /images/awesome.png
-  overlay_image: ./assets/images/awesome_s.jpg
+  overlay_image: ./assets/images/cherry.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-Hello! My name is Jisung Park.
+Hello! My name i.
+I was .
 {: style="text-align: justify;"}
