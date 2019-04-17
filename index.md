@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 ## About Me
-Hello! My name is Jisung Park. I am a PhD student in Department of Mechanical Engineering at Korea Advanced Institute of Science and Technology.
+Hi! My name is Jisung Park. I am a PhD student in Department of Mechanical Engineering at Korea Advanced Institute of Science and Technology.
 {: style="text-align: justify;"}
 
 ## Research Interests
