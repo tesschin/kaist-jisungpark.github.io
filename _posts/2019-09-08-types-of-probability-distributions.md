@@ -2,7 +2,7 @@
 published: true
 classes: wide
 categories:
-  - Tooo
+  - Toooo
 tags:
   - Tips
 ---
