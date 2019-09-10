@@ -1,1 +1,11 @@
+---
+published: true
+classes: wide
+categories:
+  - Research
+tags:
+  - Tips
+---
 
+# EM algorithm에 대해서 정리한 게시글이 있어 기록한다.
+- http://sanghyukchun.github.io/70/
