@@ -2,9 +2,9 @@
 published: true
 classes: wide
 categories:
-  - Tools
+  - Toolss
 tags:
-  - Tips
+  - Tipsss
 ---
 
 rrr
