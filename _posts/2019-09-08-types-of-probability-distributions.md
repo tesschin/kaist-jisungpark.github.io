@@ -1,0 +1,5 @@
+# Types of probability distributions
+
+![12928367_860701210700662_7166398091223190788_n](/home/ros/12928367_860701210700662_7166398091223190788_n.png)
+
+- https://www.facebook.com/TRobotics/photos/a.431960563574731/860701210700662/?type=3&theater
