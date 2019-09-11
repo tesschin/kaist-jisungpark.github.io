@@ -12,3 +12,5 @@ tags:
 
 ![Img_Types_of_pdf]
 (kaist-jisungpark/kaist-jisungpark.github.io/data/Img_Types_of_pdf.png)
+
+image: ./assets/images/Img_Types_of_pdf.png
